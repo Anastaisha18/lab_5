@@ -38,7 +38,11 @@
 -Изменить числитель методом setNumerator() и показать пересчет кэша
 -Сравнить дроби через equals()
 ### Тест
-![скрин1](https://github.com/user-attachments/assets/98c43a89-d5bd-4435-848c-8e464910ca56)
+<img width="577" height="139" alt="image" src="https://github.com/user-attachments/assets/caa3ace5-c62b-4d34-95f9-4489420b9e1c" />
+<img width="368" height="111" alt="image" src="https://github.com/user-attachments/assets/bd527739-cbec-40c9-96cc-53ca39425876" />
+<img width="528" height="519" alt="image" src="https://github.com/user-attachments/assets/8e4012f4-ca74-4eb2-8d34-327e21c130d3" />
+<img width="366" height="511" alt="image" src="https://github.com/user-attachments/assets/413d6a6c-9f6c-4210-8290-9d10fc0cece6" />
+
 
 
 # Задание 2
@@ -77,6 +81,7 @@ public void meow();
 -Создать объект Cat и передать в Funs.meowsCare()
 -Вывести количество совершенных мяуканий
 ### Тест
+<img width="235" height="250" alt="image" src="https://github.com/user-attachments/assets/3d8e80bd-f512-40ee-9275-fadb8cf26371" />
 
 
 # Задание 3
@@ -96,6 +101,7 @@ public void meow();
 Вызов метода удаления дубликатов
 Вывод результата
 ### Тест
+<img width="466" height="137" alt="image" src="https://github.com/user-attachments/assets/ac368069-b485-4e74-a733-495da15eedd3" />
 
 
 # Задание 4
@@ -130,6 +136,7 @@ X был проведен мониторинг цен на сметану. На�
 2. В методе main:
 - Вызвать SourCreamAnalyzer.analyze() без параметров
 ### Тест
+<img width="376" height="513" alt="image" src="https://github.com/user-attachments/assets/a5756f03-a2ff-4cbc-a923-9649ac7f519e" />
 
 
 
@@ -148,6 +155,9 @@ X был проведен мониторинг цен на сметану. На�
 2. В методе main:
 -Вызвать DigitAnalyzer.findDigitsInText("text_analysis.txt")
 ### Тест
+<img width="347" height="110" alt="image" src="https://github.com/user-attachments/assets/c7a7fdcb-1214-4ccc-85c1-a201221310cf" />
+<img width="298" height="166" alt="image" src="https://github.com/user-attachments/assets/eeaa6f1e-1522-4aae-aa01-8c9874027d3d" />
+
 
 # Задание 6
 ## Задача 3
@@ -168,6 +178,9 @@ X был проведен мониторинг цен на сметану. На�
 -Создать очередь и добавить все элементы
 -Вызвать QueueOperations.hasEqualNeighbors() и вывести результат
 ### Тест
+<img width="398" height="122" alt="image" src="https://github.com/user-attachments/assets/939ef314-9953-4fa3-a34d-65febc1a6b54" />
+<img width="411" height="113" alt="image" src="https://github.com/user-attachments/assets/5ca06519-1688-4152-8b02-54c89ca9b54e" />
+<img width="406" height="132" alt="image" src="https://github.com/user-attachments/assets/bb3ae628-253e-4918-8427-8686d076310d" />
 
 
 
@@ -199,3 +212,5 @@ X был проведен мониторинг цен на сметану. На�
 3. В методе main:
 -Вызвать StreamOperations.processPeopleFromFile()
 ### Тест
+<img width="663" height="127" alt="image" src="https://github.com/user-attachments/assets/7b4501c1-637d-4687-82b7-0c8e99a9a9fc" />
+<img width="156" height="200" alt="image" src="https://github.com/user-attachments/assets/4f76a69c-3e82-44a1-9146-d463e8a7e6fb" />
