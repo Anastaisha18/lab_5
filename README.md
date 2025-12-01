@@ -32,7 +32,8 @@
 -Добавить поле cachedValue, изначально null
 -Переопределить getRealValue(): если cachedValue == null, вычислить super.getRealValue() и сохранить в кэш
 -Переопределить setNumerator() и setDenominator(): вызвать версию родителя; сбросить кэш (cachedValue = null)
-4. В методе main:
+
+5. В методе main:
 -Считать числитель и знаменатель от пользователя
 -Создать объект CachedFraction и продемонстрировать работу кэша
 -Изменить числитель методом setNumerator() и показать пересчет кэша
